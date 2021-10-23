@@ -2,7 +2,7 @@
 
 Universidad El Bosque 🌳, Facultad de Ingeniería - Ingeniería de Sistemas ⌨.
 
-Integrantes: Sebastián Camilo Nieto Camacho, Diego Mauricio Veloza Martínez.
+Integrantes: Sebastián Camilo Nieto Camacho.
 
 Presentado a: Prof. Fabián Camilo Peña.
 
